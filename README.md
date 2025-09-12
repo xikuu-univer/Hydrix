@@ -12,3 +12,17 @@ Since Hydrix is a closed-source language and can only be executed using the Hydr
 Currently, the Hydrix Engine has not yet been officially released to the public, and no official public release date has been confirmed. Until now, Hydrix Engine and the language itself have only been used internally at Univer LLC.
 
 However, Univer LLC has officially announced that the Hydrix Engine and Hydrix Language will be released to the public very soon. Once released, developers and beginners worldwide will be able to access and experience Hydrix.
+
+# Hydrix Functions
+
+Main Section: This is where variables and elements are defined. <br>
+Var: Used to define variables.
+Logic Section: This section handles backend logic and conditional checks.
+Show.console(): Used for text output.
+If / Else: Conditional checks (True/False).
+Kill.process(): Stops the program, mainly used when invalid input is detected.
+User-input(): Used to take input from the user.
+Import: Loads external libraries.
+
+
+Note: These are just the basic function tags. There are 100+ more functions available in Hydrix.
