@@ -10,15 +10,15 @@ Hydrix is being developed by Univer LLC and is a closed-source language. The cod
 
 Since Hydrix is a closed-source language and can only be executed using the Hydrix Engine, developers will need the Hydrix Engine to write and run Hydrix code.
 
-Currently, the Hydrix Engine has not yet been officially released to the public, and no official public release date has been confirmed. Until now, Hydrix Engine and the language itself have only been used internally at Univer LLC.
+Currently, the Hydroxide Engine has not yet been officially released to the public, and no official public release date has been confirmed. Until now, Hydroxide Engine and the language itself have only been used internally at Univer LLC.
 
-However, Univer LLC has officially announced that the Hydrix Engine and Hydrix Language will be released to the public very soon. Once released, developers and beginners worldwide will be able to access and experience Hydrix.
+However, Univer LLC has officially announced that the Hydroxide Engine and Hydrix Language will be released to the public very soon. Once released, developers and beginners worldwide will be able to access and experience Hydrix.
 
 # Installation
 
-Hydrix is a closed-source language, which means that to use it, you must have the Hydrix Engine. It does not support any other platform or editor, such as VS Code, Replit, or any other IDE.
+Hydrix is a closed-source language, which means that to use it, you must have the Hydroxide Engine. It does not support any other platform or editor, such as VS Code, Replit, or any other IDE.
 
-Below, in the Release section, you will find the download links for Hydrix Engine for Windows and Android.
+Below, in the Release section, you will find the download links for Hydroxide Engine for Windows and Android.
 
 # features
 <br>
@@ -36,3 +36,12 @@ Web Applications
 <li>Data Science</li>
 <li>Data Analysis</li>
 <li>Programming Robots</li>
+
+# hydroxide engine workflow
+Humans use different natural languages to express thoughts — such as Japanese, Chinese, Spanish, or English. But computers cannot directly understand any human language, whether it is English or Chinese. Computers communicate in their own language called Binary Code, which is built entirely from 0s and 1s.
+
+However, humans are not naturally good at working directly with numbers like binary. That is why programming languages were created —to allow humans to use readable characters and structures to communicate more effectively with computers.
+
+Among these programming languages, Hydrix is designed to be one of the most powerful yet beginner-friendly. Like every programming language, Hydrix requires an environment to be written and executed. Such an environment is called a code editor or code engine. Popular platforms like VS Code or Replit are commonly used for other languages, but Hydrix is different.
+
+Hydrix can only be understood and executed within the Hydroxide Engine. When a user writes Hydrix code inside the Hydroxide Engine and runs it, the engine converts the Hydrix code into binary code. This binary code is what the computer can finally understand and execute.
