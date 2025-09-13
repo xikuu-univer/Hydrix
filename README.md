@@ -45,7 +45,7 @@ Humans use different natural languages to express thoughts — such as Japanese,
 
 However, humans are not naturally good at working directly with numbers like binary. That is why programming languages were created —to allow humans to use readable characters and structures to communicate more effectively with computers.
 
-Among these programming languages, Hydrix is designed to be one of the most powerful yet beginner-friendly. Like every programming language, Hydrix requires an environment to be written and executed. Such an environment is called a code editor or code engine. Popular platforms like VS Code or Replit are commonly used for other languages, but Hydrix is different.
+Among these programming languages, Hydrix is designed to be one of the most powerful yet beginner friendly. Like every programming language, Hydrix requires an environment to be written and executed. Such an environment is called a code editor or code engine. Popular platforms like VS Code or Replit are commonly used for other languages, but Hydrix is different.
 
 Hydrix can only be understood and executed within the Hydroxide Engine. When a user writes Hydrix code inside the Hydroxide Engine and runs it, the engine converts the Hydrix code into binary code. This binary code is what the computer can finally understand and execute.
 
