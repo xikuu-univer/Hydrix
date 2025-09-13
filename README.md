@@ -39,7 +39,7 @@ Web Applications
 
 # hydroxide engine workflow
 <br>
-![Alt Text](https://raw.githubusercontent.com/yourranjiroo/Hydrix/refs/heads/main/Hydrix%20engine%20workflow.jpg)
+
 <br><br>
 Humans use different natural languages to express thoughts — such as Japanese, Chinese, Spanish, or English. But computers cannot directly understand any human language, whether it is English or Chinese. Computers communicate in their own language called Binary Code, which is built entirely from 0s and 1s.
 
@@ -48,3 +48,5 @@ However, humans are not naturally good at working directly with numbers like bin
 Among these programming languages, Hydrix is designed to be one of the most powerful yet beginner-friendly. Like every programming language, Hydrix requires an environment to be written and executed. Such an environment is called a code editor or code engine. Popular platforms like VS Code or Replit are commonly used for other languages, but Hydrix is different.
 
 Hydrix can only be understood and executed within the Hydroxide Engine. When a user writes Hydrix code inside the Hydroxide Engine and runs it, the engine converts the Hydrix code into binary code. This binary code is what the computer can finally understand and execute.
+
+![Alt Text](https://raw.githubusercontent.com/yourranjiroo/Hydrix/refs/heads/main/Hydrix%20engine%20workflow.jpg)
