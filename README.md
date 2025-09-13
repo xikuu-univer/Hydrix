@@ -1,3 +1,4 @@
+![Alt Text](https://ibb.co.com/6Rs07zz0)
 # Hydrix
 Hydrix is one of the most powerful and beginner-friendly programming languages. It is designed in a way that makes it very easy for new programmers to learn and start coding. Hydrix can be applied in multiple fields such as website development, web applications, data analysis, data science, and more.
 
