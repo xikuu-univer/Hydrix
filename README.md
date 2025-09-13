@@ -13,3 +13,8 @@ Currently, the Hydrix Engine has not yet been officially released to the public,
 
 However, Univer LLC has officially announced that the Hydrix Engine and Hydrix Language will be released to the public very soon. Once released, developers and beginners worldwide will be able to access and experience Hydrix.
 
+# Installation
+
+Hydrix is a closed-source language, which means that to use it, you must have the Hydrix Engine. It does not support any other platform or editor, such as VS Code, Replit, or any other IDE.
+
+Below, in the Release section, you will find the download links for Hydrix Engine for Windows and Android.
