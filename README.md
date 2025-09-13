@@ -20,7 +20,7 @@ Hydrix is a closed-source language, which means that to use it, you must have th
 
 Below, in the Release section, you will find the download links for Hydroxide Engine for Windows and Android.
 
-# features
+# usages
 <br>
 <b>fronted</b>
 <li>Website Design</li>
@@ -50,3 +50,23 @@ Among these programming languages, Hydrix is designed to be one of the most powe
 Hydrix can only be understood and executed within the Hydroxide Engine. When a user writes Hydrix code inside the Hydroxide Engine and runs it, the engine converts the Hydrix code into binary code. This binary code is what the computer can finally understand and execute.
 
 ![Alt Text](https://raw.githubusercontent.com/yourranjiroo/Hydrix/refs/heads/main/Hydrix%20engine%20workflow.jpg)
+
+# feature 
+<b>Plugin Support –</b> Developers can install and use different plugins, making the engine more customizable, easy to use, and highly accessible.
+
+<b>Element Suggestions (IntelliSense) – </b> Smart suggestions for functions, variables, and elements while writing code.
+
+<b> Syntax Highlighting</b> – Clear and colorful syntax highlighting to improve readability.
+
+<b>Code Auto-Completion – </b>Automatically completes functions, keywords, and variables as you type.
+
+<b>Error Detection & Debugging –</b> Real-time error highlighting and debugging tools to help developers fix issues faster.
+
+<b>Built-in Terminal –</b> Run commands and scripts directly within the engine.
+
+<b>File Explorer –</b> Manage and navigate project files easily inside the engine.
+
+<b> Cross-Platform Support – </b> Designed to work on both Windows and Android (future updates may add more platforms).
+
+<b> Lightweight & Fast – </> Optimized for performance, so beginners and professionals can code without lag.
+
