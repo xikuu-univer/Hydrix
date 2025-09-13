@@ -38,6 +38,9 @@ Web Applications
 <li>Programming Robots</li>
 
 # hydroxide engine workflow
+<br>
+![Alt Text](https://raw.githubusercontent.com/yourranjiroo/Hydrix/refs/heads/main/Hydrix%20engine%20workflow.jpg)
+<br><br>
 Humans use different natural languages to express thoughts — such as Japanese, Chinese, Spanish, or English. But computers cannot directly understand any human language, whether it is English or Chinese. Computers communicate in their own language called Binary Code, which is built entirely from 0s and 1s.
 
 However, humans are not naturally good at working directly with numbers like binary. That is why programming languages were created —to allow humans to use readable characters and structures to communicate more effectively with computers.
