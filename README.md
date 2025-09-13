@@ -68,5 +68,5 @@ Hydrix can only be understood and executed within the Hydroxide Engine. When a u
 
 <b> Cross-Platform Support – </b> Designed to work on both Windows and Android (future updates may add more platforms).
 
-<b> Lightweight & Fast – </> Optimized for performance, so beginners and professionals can code without lag.
+<b> Lightweight & Fast – <b/> Optimized for performance, so beginners and professionals can code without lag.
 
