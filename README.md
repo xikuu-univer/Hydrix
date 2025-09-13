@@ -19,3 +19,20 @@ However, Univer LLC has officially announced that the Hydrix Engine and Hydrix L
 Hydrix is a closed-source language, which means that to use it, you must have the Hydrix Engine. It does not support any other platform or editor, such as VS Code, Replit, or any other IDE.
 
 Below, in the Release section, you will find the download links for Hydrix Engine for Windows and Android.
+
+# features
+<br>
+<b>fronted</b>
+<li>Website Design</li>
+<li>Application UI & UX Development </li>
+<br><br>
+<b>Backend</b>
+<br>
+<li>Website Backend Logic</li>
+<li>Application Backend Logic
+Automation</li>
+Web Applications
+<li>Artificial Intelligence</li>
+<li>Data Science</li>
+<li>Data Analysis</li>
+<li>Programming Robots</li>
